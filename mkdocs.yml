@@ -1,18 +1,18 @@
 site_name: FullProf
-repo_url: https://pranabdas.github.io 
+repo_url: https://pranabdas.github.io/
 site_description: Tutorial for XRD peak fitting using FullProf.
-site_author: Pranab Das 
+site_author: Pranab Das
 
 nav:
-    - Home: index.md
+    - Table of Contents: index.md
     - Installation: install.md
     - Create PCR: create-pcr.md
     - Edit PCR: edit-pcr.md
     - Refinement: refinement.md
 
-theme: 
-    name: null 
-    custom_dir: simplicity  
+theme:
+    name: null
+    custom_dir: simplicity
     static_templates:
         - 404.html
 
@@ -20,12 +20,10 @@ theme:
     search_index_only: false
 
     highlightjs: true
-    hljs_languages: python 
 
 markdown_extensions:
-  - pymdownx.arithmatex 
-  - attr_list
+    - pymdownx.arithmatex
+    - attr_list
 
-copyright: © Copyright 2020 Pranab Das. All rights reserved. 
-
+copyright: " "
 # google_analytics: [UA-163317742-1, https://pranabdas.github.io/]
