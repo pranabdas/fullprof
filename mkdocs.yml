@@ -24,6 +24,3 @@ theme:
 markdown_extensions:
     - pymdownx.arithmatex
     - attr_list
-
-copyright: " "
-# google_analytics: [UA-163317742-1, https://pranabdas.github.io/]
